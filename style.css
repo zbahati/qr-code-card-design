@@ -22,7 +22,7 @@ p{
     color: var(--grayish-blue);
 }
 main{
-    max-width: 300px;
+    width: 300px;
     margin: 2rem auto;
     background-color: var(--white);
 
